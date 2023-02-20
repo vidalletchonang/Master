@@ -1,2 +1,2 @@
 # Master
-java
+Snake.java
